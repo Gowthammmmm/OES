@@ -1,11 +1,14 @@
-Certainly! Below is a template for a README.md file for an Online Examination System (OES) on GitHub:
+
+Sure! Here's an updated version of the README.md with a GIF-like template for a more visually appealing presentation:
 
 ```markdown
 # Online Examination System (OES)
 
 Welcome to the Online Examination System (OES) repository! This system is designed to facilitate online examinations for students with an easy-to-use interface for both administrators and students.
 
-![OES Demo](demo.gif)
+<div align="center">
+  <img src="demo.gif" alt="OES Demo">
+</div>
 
 ## Installation
 
@@ -19,8 +22,9 @@ Follow these steps to install the Online Examination System:
 2. Navigate to the project directory:
    ```sh
    cd OES
-   ```
+```
 
+This README now includes a centered GIF-like template for the demo image, making it visually appealing and engaging for users browsing the repository. Feel free to adjust the styling or content further to suit your preferences!
 3. Create a MySQL database and set a name for it.
 
 4. Find the `database` folder, locate the SQL file, and import it into phpMyAdmin or MySQL to create the necessary database structure.
